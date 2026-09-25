@@ -16,10 +16,6 @@ A small, dependency-light utility for maintaining a **persistent SSH dynamic SOC
 
 The resulting local SOCKS5 proxy can be used by browsers, command-line tools, development environments, and other applications that support SOCKS proxies.
 
-Repository:
-
-https://github.com/BaseMax/keep-ssh-tunnel
-
 ---
 
 ## Features
